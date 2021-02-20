@@ -1,7 +1,7 @@
 # meditation_flutter_app
 
 
-![Finished App](https://github.com/hakkicansengonul/images/blob/master/meditation_flutter.gif)
+![Finished App](https://github.com/hakkicansengonul/images/blob/master/meditation_flutterUI.gif)
 
 
 
